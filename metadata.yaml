@@ -1,0 +1,29 @@
+_repo: Psychology-and-Social-Practice_40744
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40744-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dewey, John
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '446'
+    url: http://www.gutenberg.org/2009/agents/446
+    wikipedia: http://en.wikipedia.org/wiki/John_Dewey
+description: ''
+gutenberg_issued: '2012-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40744'
+  lccn: 02016219
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychology'
+- !lcsh 'Sociology'
+- !lcc 'BF'
+title: Psychology and Social Practice
+url: http://www.gutenberg.org/ebooks/40744
